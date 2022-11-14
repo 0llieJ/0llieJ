@@ -1,6 +1,6 @@
 <h1 align="center">👾 Dr1fter0<h1> 
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
