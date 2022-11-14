@@ -7,7 +7,7 @@
 
 **`Aspiring SOC Analyst and all things Linux`**
     </h1>
-
+</center>
 
 
 I am a junior SOC Analyst and developer for a small team. <br>
