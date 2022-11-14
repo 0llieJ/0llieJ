@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Dr1fter0
 
-**Aspiring SOC Analyst and all things Linux**
+**`Aspiring SOC Analyst and all things Linux`**
 
 
 <!--
