@@ -6,6 +6,7 @@
 
 <div align="center"> 
   <code> Cyber Security enthusiast, linux lover and noob hacker </code> 
+  <br>
   <code> This is where I want to host some knowledge articles, store some writeups and work on developing my website with GoHugo </code>
 </div>
 
