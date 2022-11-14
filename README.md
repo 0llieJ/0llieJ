@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
-'<div align="center"> Cyber Security enthusiast, linux lover and noob hacker </div'
+<div align="center"> 
+  <code> Cyber Security enthusiast, linux lover and noob hacker </code> 
+</div>
 
 ---
 <center>
