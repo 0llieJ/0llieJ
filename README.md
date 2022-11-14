@@ -1,4 +1,7 @@
-### Hi there 👋
+# 👨🏻‍💻 Dr1fter0
+
+**Aspiring SOC Analyst and all things Linux**
+
 
 <!--
 **dr1fter0/Dr1fter0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
