@@ -11,7 +11,7 @@
 ---
   
   <p align="center"> I am a junior SOC Analyst and developer for a small team. <br>
-So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as <a href="[Udemy](https://www.udemy.com)">link text</a>. <br>
+So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as <a href="https://www.udemy.com">Udemy</a>. <br>
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark. 
   </p>
 
@@ -45,13 +45,13 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 
 ---
 
-<div style="text-align: center">
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr1fter0&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div style="text-align: center">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1fter0)](https://github.com/anuraghazra/github-readme-stats)
 
