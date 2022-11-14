@@ -5,9 +5,8 @@
 </div>
 
 <center>
-  
-  **`Aspiring SOC Analyst and all things Linux`**</div>
-  </center>
+   **`Aspiring SOC Analyst and all things Linux`**</div>
+</center>
   
   
 <p align="center">
