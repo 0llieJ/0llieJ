@@ -24,8 +24,8 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 I am looking at furthering my Splunk knowledge through a Splunk Certification and completing some CompTia Certifications. 
 
   </p>
-  
-</center>
+ </center>
+
 ---
 
 <h3 align="center">You can reach me on:</h3>
