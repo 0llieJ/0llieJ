@@ -9,25 +9,23 @@
 </div>
 
 ---
-
-<center>
-
+  
   <p align="center"> I am a junior SOC Analyst and developer for a small team. <br>
 So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as [Udemy](https://www.udemy.com/). <br>
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark. 
   </p>
 
-Since getting into my job role, I have worked with enterprise level virtualisation (VMware ESX and VSCA) which hosts both Linux and Windows machines. <br>
+<p align="center"> Since getting into my job role, I have worked with enterprise level virtualisation (VMware ESX and VSCA) which hosts both Linux and Windows machines. <br>
 I have learnt how to configure and secure these machines, as well as working with the networking behind the infrastructure; both in virtual and physical routing/switching.
-
-This then lead to learning certain tools, related to a SOC Analyst role on a <u>**basic to intermediate level**.</u> <br>
+</p>
+  
+<p align="center"> This then lead to learning certain tools, related to a SOC Analyst role on a <u>**basic to intermediate level**.</u> <br>
 Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Center Operation Manager (SCOM).
+</p>
 
-
-I am looking at furthering my Splunk knowledge through a Splunk Certification and completing some CompTia Certifications. 
+<p align="center"> I am looking at furthering my Splunk knowledge through a Splunk Certification and completing some CompTia Certifications. </p>
 
   </p>
-</center>
 
 ---
 
