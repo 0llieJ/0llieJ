@@ -44,22 +44,24 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
     <h4 align="center">These are some of the technologies I have worked with, some more depth than others.<br>
     I have also had exposure to Powershell and working with API's such as REST API with Splunk.
     </h4>
-<br>
-<img align="left" alt="Grafana" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /> <img align="left" alt="Hugo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" />
-<img align="left" alt="Ansible" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gitlab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-<br>
+#
+
+<p align=center> <img alt="Grafana" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /> 
+	<img alt="Hugo" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" /> 
+	<img alt="Ansible" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" /> 
+	<img alt="Linux" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+	<img alt="Python" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+	<img alt="Bash" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
+	<img alt="GitHub" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+	<img alt="Gitlab" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> 
+	<img alt="Git" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+	<img alt="HTML" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
+	<img alt="CSS" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+	<img alt="JavaScript" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
+	<img alt="React" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
+	<img alt="NodeJS" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+</p>
 
 ---
 
