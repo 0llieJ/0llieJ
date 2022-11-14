@@ -44,12 +44,10 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
     <h4 align="center">These are some of the technologies I have worked with, some more depth than others.<br>
     I have also had exposure to Powershell and working with API's such as REST API with Splunk.
     </h4>
-<p align="center"> 
   
-    <img align="Center" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<img align="Center" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   
 
-</p>
 ---
 
 <div align="center">
