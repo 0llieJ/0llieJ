@@ -1,14 +1,11 @@
-<center
-    <h1>👾 Dr1fter0 
+<h1 align="center">👾 Dr1fter0<h1> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
-**`Aspiring SOC Analyst and all things Linux`**
+<h1 align="center"> **`Aspiring SOC Analyst and all things Linux`**
     </h1>
-</center>
-
 
 I am a junior SOC Analyst and developer for a small team. <br>
 So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as [Udemy](https://www.udemy.com/). <br>
