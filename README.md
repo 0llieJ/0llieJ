@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
-<code align="center"> Aspiring SOC Analyst and all things Linux </code>
+<div align="center"> Aspiring SOC Analyst and all things Linux </div>
 
 ---
 <center>
