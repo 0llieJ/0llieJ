@@ -6,12 +6,14 @@
 
 <center>
 
-**`Aspiring SOC Analyst and all things Linux`**
+                                                **`Aspiring SOC Analyst and all things Linux`**
 
 </center>
 
 ---
-<p align="center"> I am a junior SOC Analyst and developer for a small team. <br>
+<center>
+
+<p> I am a junior SOC Analyst and developer for a small team. <br>
 So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as [Udemy](https://www.udemy.com/). <br>
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark.
 
@@ -25,6 +27,8 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 I am looking at furthering my Splunk knowledge through a Splunk Certification and completing some CompTia Certifications. 
 
 </p>
+  
+  </center>
 ---
 
 <h3 align="center">You can reach me on:</h3>
