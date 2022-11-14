@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
-<div align="center"> Aspiring SOC Analyst and all things Linux </div>
+'<div align="center"> Cyber Security enthusiast, linux lover and noob hacker </div'
 
 ---
 <center>
