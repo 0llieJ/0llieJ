@@ -12,7 +12,7 @@
 
 ---
  
- <h3 align="center"> Want to know me? </h3>
+ <h3 align="center"> Get to know me... </h3>
   <p align="center"> I am a junior SOC Analyst and developer for a small team. <br>
 So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as <a href="https://www.udemy.com">Udemy</a>. <br>
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark. 
