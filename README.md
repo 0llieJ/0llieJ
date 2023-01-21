@@ -1,4 +1,4 @@
-<h1 align="center"> 👾 0llie.J 👾  </h1>
+<h1 align="center"> 👾 0llieJ 👾  </h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
