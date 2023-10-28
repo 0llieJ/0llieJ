@@ -13,7 +13,7 @@
 ---
  
  <h3 align="center"> Get to know me... </h3>
-  <p align="center"> I am a junior SOC Analyst and developer for a small team. <br>
+  <p align="center"> I am a Developer in a small team, mainly working on automating solutions and networking, with a side passion for Cyber Security.<br>
 So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as <a href="https://www.udemy.com">Udemy</a>. <br>
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark. 
   </p>
@@ -28,13 +28,14 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 
 <p align="center"> I am looking at furthering my Splunk knowledge through a Splunk Certification and completing some CompTia Certifications. </p>
 
+<p align="center"> Some of my recent achievements is automating a splunk forwarder deployment for Linux boxes as there isn't an option like there is with Group Policy. The script will check if the current Splunk Forwarder version is installed and will stop if it's the same updated version. Otherwise it will create a backup of the old version and install the new version. This was designed for local offline, airgapped systems.</p>
+<p align="center"> I have also recently passed my Cisco CCNA Exam. Whilst not a huge exam in the world of networking, I was eager to prove I have a base knowledge and awareness of networks, to now build my career off. </p>
   </p>
 
 ---
 
 <h3 align="center">You can reach me on:</h3>
 <p align="center">
-<a href="https://twitter.com/dr1fter0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dr1fter0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ollie-h-538416218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ollie-h-538416218" height="30" width="40" /></a>
 </p>
 </p>
@@ -58,9 +59,6 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 	<img alt="Git" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 	<img alt="HTML" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
 	<img alt="CSS" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-	<img alt="JavaScript" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
-	<img alt="React" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
-	<img alt="NodeJS" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </p>
 
 ---
@@ -76,5 +74,3 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1fter0)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
