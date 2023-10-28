@@ -13,10 +13,11 @@
 ---
  
  <h3 align="center"> Get to know me... </h3>
-  <p align="center"> I am a Developer in a small team, mainly working on automating solutions and networking, with a side passion for Cyber Security.<br>
-So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as <a href="https://www.udemy.com">Udemy</a>. <br>
+  <p align="center"> I am a Developer in a small team, mainly working on automating solutions and networking, with a side passion for Cyber Security. 
+  </p><br>
+  <p align="center">So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as <a href="https://www.udemy.com">Udemy</a>. <br>
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark. 
-  </p>
+</p>
 
 <p align="center"> Since getting into my job role, I have worked with enterprise level virtualisation (VMware ESX and VSCA) which hosts both Linux and Windows machines. <br>
 I have learnt how to configure and secure these machines, as well as working with the networking behind the infrastructure; both in virtual and physical routing/switching.
@@ -28,7 +29,7 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 
 <p align="center"> I am looking at furthering my Splunk knowledge through a Splunk Certification and completing some CompTia Certifications. </p>
 
-<p align="center"> Some of my recent achievements is automating a splunk forwarder deployment for Linux boxes as there isn't an option like there is with Group Policy. The script will check if the current Splunk Forwarder version is installed and will stop if it's the same updated version. Otherwise it will create a backup of the old version and install the new version. This was designed for local offline, airgapped systems.</p>
+<p align="center"> Some of my recent achievements are; automating the deployment of Splunk Forwarders within a domain of Linux boxes as there is no easy way to deploy forwarders to mass group of Linux boxes unlike Windows which can use Group Policy, especially in an offline environment which has no connection to the internet. The script checks the current version and if it matches the version you are wanting to update too, it will stop otherwise it will pull the new version down and create a backup of the current forwarder. Then it will update it, to the new version. The script at the same time, also checks if a Splunk Forwarder is installed and if it isn't, installs one. </p> <br>
 <p align="center"> I have also recently passed my Cisco CCNA Exam. Whilst not a huge exam in the world of networking, I was eager to prove I have a base knowledge and awareness of networks, to now build my career off. </p>
   </p>
 
@@ -74,3 +75,5 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1fter0)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
