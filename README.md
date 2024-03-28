@@ -65,18 +65,5 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 	<img alt="CSS" width="40px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
 </p>
 
----
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr1fter0&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1fter0)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
