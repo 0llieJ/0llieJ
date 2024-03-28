@@ -30,7 +30,7 @@ Such tools involve; Splunk, Zeek, Cisco Firepower and ADSM, Microsoft System Cen
 <p align="center"> I am looking at furthering my Splunk knowledge through a Splunk Certification and completing some CompTia Certifications. </p>
 
 <p align="center"> Some of my recent achievements are; automating the deployment of Splunk Forwarders within a domain of Linux boxes as there is no easy way to deploy forwarders to mass group of Linux boxes unlike Windows which can use Group Policy, especially in an offline environment which has no connection to the internet. The script checks the current version and if it matches the version you are wanting to update too, it will stop otherwise it will pull the new version down and create a backup of the current forwarder. Then it will update it, to the new version. The script at the same time, also checks if a Splunk Forwarder is installed and if it isn't, installs one. </p> <br>
-<p align="center"> I have also recently passed my Cisco CCNA Exam. Whilst not a huge exam in the world of networking, I was eager to prove I have a base knowledge and awareness of networks, to now build my career off. </p>
+<p align="center"> I have also recently passed my Cisco CCNA Exam. Whilst not a huge exam in the world of networking, I was eager to prove I have a base knowledge and awareness of networks, to now build my career off. A few months later, I passed ISC2 Certified in Cyber Security exam too, providing me with a basic knowledge of enterprise Cyber Security. </p>
   </p>
 
 ---
