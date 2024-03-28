@@ -19,7 +19,7 @@
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark. 
 </p>
   <h3 align="center"> Achievements. </h3>
-  <p align="center"> - Cisco CCNA </p><br>
+  <p align="center"> - Cisco CCNA </p>
   <p align="center"> - ISC2 CC </p><br>
   
 <p align="center"> Since getting into my job role, I have worked with enterprise level virtualisation (VMware ESX and VSCA) which hosts both Linux and Windows machines. <br>
