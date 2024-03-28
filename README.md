@@ -18,10 +18,9 @@
   <p align="center">So far I have learnt everything I know by myself, playing around with Linux in virtual machines and using it on old hardware, as well as completing many online courses through sites such as <a href="https://www.udemy.com">Udemy</a>. <br>
 Through this exploration I also discovered and worked with different tools, such as Splunk and Wireshark. 
 </p>
-  <p align="center"> Achievements. 
-  </p><br>
-  <li> [+] Cisco CCNA </li>
-  <li> [+] ISC2 CC </li>
+  <h3 align="center"> Achievements. </h3>
+  <li> Cisco CCNA </li>
+  <li> ISC2 CC </li><br>
 
 <p align="center"> Since getting into my job role, I have worked with enterprise level virtualisation (VMware ESX and VSCA) which hosts both Linux and Windows machines. <br>
 I have learnt how to configure and secure these machines, as well as working with the networking behind the infrastructure; both in virtual and physical routing/switching.
